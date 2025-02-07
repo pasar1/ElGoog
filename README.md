@@ -30,6 +30,18 @@ I built this project to make searching for information in syllabi and academic m
    ```
 3. **Access the website**:
    - Open `http://localhost:8081` in your browser.
+  
+## Technologies Used
+
+# Frontend
+
+Built with HTML, CSS, and JavaScript for a simple yet responsive user interface.
+
+# Backend
+
+Java & Spring Boot: Powers the backend logic for indexing and search operations.
+
+H2 In-Memory Database: Stores documents and search indices for fast retrieval.
 
 ## How It Works
 - **Indexing**: Documents are processed into an efficient index structure at startup or via the `/reindex` service.
