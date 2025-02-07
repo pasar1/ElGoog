@@ -58,7 +58,7 @@ I built this project to make searching for information in syllabi and academic m
 - **End-to-End (E2E) Testing**: Run the web app locally and perform searches through the browser.
 
 ## Contributions
-Feel free to contribute by improving search efficiency, adding tests, or enhancing the web interface.
+Feel free to contribute by improving search efficiency, adding tests, or enhancing the web interface!
 
 
 ### Author
