@@ -33,13 +33,11 @@ I built this project to make searching for information in syllabi and academic m
   
 ## Technologies Used
 
-# Frontend
+**Frontend**: 
+- Built with HTML, CSS, and JavaScript for a simple yet responsive user interface.
 
-Built with HTML, CSS, and JavaScript for a simple yet responsive user interface.
-
-# Backend
-
-Java & Spring Boot: Powers the backend logic for indexing and search operations.
+**Backend**
+- Java & Spring Boot: Powers the backend logic for indexing and search operations.
 
 H2 In-Memory Database: Stores documents and search indices for fast retrieval.
 
