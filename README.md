@@ -3,11 +3,11 @@
 ![411029766-556ffe33-9a98-4d49-801b-1e297679ae6c](https://github.com/user-attachments/assets/35927133-77a1-435c-9bb5-9f28c822dde8)
 
 ## Overview
-This project, "Elgoog," is a mini search engine that efficiently performs phrase searches across a collection of documents. It is implemented in Java and runs as a fully functional website using Spring Boot!
+This project, "Elgoog," is an optimized phrase search engine designed for high-performance text retrieval across a structured document corpus. Implemented in Java and leveraging Spring Boot, the system is built to execute efficient indexed queries, ensuring sublinear search time complexity through advanced data structures.
 
 ## Why I Made This
 
-I developed this project with the goal of helping students and educators easily locate the information they need in their syllabuses and study materials. I know traditional search tools can sometimes be slow when you're trying to find specific phrases in big documents, so I created this tool to deliver quick and precise search results. It’s my hope that this project makes it easier for students to organize and access their coursework effectively!
+This project was developed to address inefficiencies in conventional document search methodologies, particularly in the context of structured syllabi and academic reference materials. By implementing an optimized indexing mechanism, the system enables rapid phrase-matching with precise tokenization and lexicographical ordering. The goal is to enhance accessibility to educational materials by facilitating deterministic, low-latency search queries.
 
 ## Features
 - **Exact Phrase Search**: Returns a sorted list of document IDs that contain the exact search phrase (matching both words and order).
