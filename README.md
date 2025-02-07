@@ -7,7 +7,7 @@ This project, "Elgoog," is an optimized phrase search engine designed for high-p
 
 ## Why I Made This
 
-This project was developed to address inefficiencies in conventional document search methodologies, particularly in the context of structured syllabi and academic reference materials. By implementing an optimized indexing mechanism, the system enables rapid phrase-matching with precise tokenization and lexicographical ordering. The goal is to enhance accessibility to educational materials by facilitating deterministic, low-latency search queries.
+I built this project to make searching for information in syllabi and academic materials faster and easier. Traditional search methods can be slow and frustrating, especially when you're trying to find an exact phrase. By creating a smarter indexing system, this search engine quickly finds the right information without making you dig through endless text. By implementing an optimized indexing mechanism, the system enables rapid phrase-matching with precise tokenization and lexicographical ordering. My goal is to help students and educators get what they need instantly, making studying and research more efficient and enjoyable! 
 
 ## Features
 - **Exact Phrase Search**: Returns a sorted list of document IDs that contain the exact search phrase (matching both words and order).
