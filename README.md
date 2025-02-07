@@ -38,8 +38,7 @@ I built this project to make searching for information in syllabi and academic m
 
 **Backend**:
 - Java & Spring Boot: Powers the backend logic for indexing and search operations.
-
-H2 In-Memory Database: Stores documents and search indices for fast retrieval.
+- H2 In-Memory Database: Stores documents and search indices for fast retrieval.
 
 ## How It Works
 - **Indexing**: Documents are processed into an efficient index structure at startup or via the `/reindex` service.
