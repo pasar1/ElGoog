@@ -3,7 +3,7 @@
 ![411029766-556ffe33-9a98-4d49-801b-1e297679ae6c](https://github.com/user-attachments/assets/35927133-77a1-435c-9bb5-9f28c822dde8)
 
 ## Overview
-This project, "Elgoog," is an optimized phrase search engine designed for high-performance text retrieval across a structured document corpus. Implemented in Java and leveraging Spring Boot, the system is built to execute efficient indexed queries, ensuring sublinear search time complexity through advanced data structures.
+Elgoog is an optimized phrase search engine designed for high-performance text retrieval across a structured document corpus. Implemented in Java and leveraging Spring Boot, the system is built to execute efficient indexed queries, ensuring sublinear search time complexity through advanced data structures.
 
 ## Why I Made This
 
