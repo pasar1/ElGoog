@@ -29,7 +29,7 @@ I built this project to make searching for information in syllabi and academic m
    ./mvnw spring-boot:run
    ```
 3. **Access the website**:
-   - Open `http://localhost:8081` in your browser
+   - Open `http://localhost:8081` in your browser.
   
 ## Technologies Used
 
